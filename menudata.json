@@ -1,0 +1,29 @@
+[
+  { "type": "Cakes", "data": [["Caramel Cake",  "£1.50"],[ "Eclair", "£1"],[ "Danish", "£1.20"],["Fudge Cake", "£2"], 
+  ["Empire Biscuit", "£1"], ["Cookie", "£1"],["Strawberry Tart", "£1.80"]]},
+  
+  { "type": "Sandwiches", "data": [["Ham", "£2.50"], ["Cheese", "£2"], ["Roast Beef", "£2.40"], ["Roast Pork", "£2.20"],
+  ["Roast Pork", "£2.20"], ["Roast Pork", "£2.20"], ["Tuna","£2"], ["Reuben", "£2.50"] ] },
+ 
+  
+  {  "type": "Mains", "data": [["Steak Pie & Chips", "£5"], ["Scotch Pie & Chips", "£4"], ["Chicken Curry & Rice","£4.50"],
+  ["Chilli & Rice","£4.50"], ["Veg Chilli & Rice","£4"], ["Veg Curry & Rice","£4"], ["Lasagne & Garlic Bread","£5"], 
+  ["Salmon Wedge Melt", "£5"], ["Fish & Chips","£5"], ["Burger & Chips", "£4.50"]] },
+ 
+  {  "type": "Breakfast", "data": [["Breakfast Roll","£2.50"],["Breakfast Roll (Double)","£3.30"], ["Breakfast Roll (Triple)","£4"],
+  ["Bagel", "£3"], ["Bagel (Double)", "£3.80"], ["Bagel (Triple)", "£4.50"], ["Full Scottish", "£5"], ["Porridge", "£2.20"], 
+  ["Pancakes", "£3"] , ["French Toast","£3"] ]},
+  
+  {  "type": "Snacks", "data": [["Chips","£2.50"], ["Chips & Curry Sauce","£3.50"] ,["Chips & Cheese","£3.50"], ["Chips & Gravy","£3.50"] ,
+  ["Baked Potato (1 filling)","£3"], ["Soup","£2.50"]]},
+ 
+  {  "type": "Extras", "data": [["Curry Sauce","£2"], ["Beans","£1.50"], ["Crisps","£1"], ["Coleslaw","£1.50"], ["Gravy","£2"] 
+  ,["Pickled Gherkin", "£1"], ["Pickled Onion","£1"] ]},
+  
+  {  "type": "Drinks", "data": [["Tea","£1.50"] ,[ "Cappuccino","£2.40"] ,  ["Latte","£2.60"], ["Espresso", "£2"], ["Americano", "£2.50"]
+  ,["Juice (can)","£1.20"], ["Water","£1"],  ["Milk","£1.20"] ]},
+
+  { "type": "Specials", "data": [["BreakFast Roll & Hot Drink",  "£3.50"], ["Chips & Curry Sauce + Juice (can)", "£4.20"],
+  ["Cake & Hot Drink", "£3"], ["Soup & Sandwich", "£4"], ["Any 4 Cakes", "£4"]]}
+]
+  
